@@ -10,5 +10,8 @@ package universidad;
  * @author programador
  */
 public class ClaseO {
-    
+    public void UnMetodo(){
+        System.out.println("Hola!");
+        
+}
 }
