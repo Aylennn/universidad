@@ -12,6 +12,11 @@ package universidad;
 public class ClaseO {
     public void unMetodo(){
         System.out.println("Hola!");
+      
         
 }
+    public void otroMetodo(){ 
+        System.out.println ("¿Como estas?");
+             }
+
 }
